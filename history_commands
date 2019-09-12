@@ -1,0 +1,21 @@
+Firefox - palaist programmu firefox
+exit - pamest iepriekšējo vietu
+firefox & - palaist firefox programmu fonā
+echo - attēlo tekstu
+echo $0 - attēlo sistēmas mainīgā vērtību
+cd -  mainīt direktoriju
+bash (unix shell) - komandu valoda ar operētāsjsistēmu
+pwd - (print current directory) izveidot ceļu uz kādu direktoriju
+-l - parādīt mapes sīkāk
+mkdir ManaMape - izveidot mapi 
+rmdir ManaMape - izdzēst mapi
+history - apskatīties izveidoto komandu vēsturi
+sh - bash valodas komanda
+~ - mājas
+help - skatīt komandu iespējas
+cd ManaMape - pārvietoties uz ManaMape
+history_20190912.txt - izveidot teksta failu par vēsturi
+ls - objektu saraksts
+ls -a - visu pieejamo objektu saraksts
+-a - neignorēt visus objektus, parādīt visus objektus
+~/documents$ - pāriet uz mapi documents
