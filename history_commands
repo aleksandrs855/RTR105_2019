@@ -7,8 +7,8 @@ cd -  mainīt direktoriju
 bash (unix shell) - komandu valoda ar operētāsjsistēmu
 pwd - (print current directory) izveidot ceļu uz kādu direktoriju
 -l - parādīt mapes sīkāk
-mkdir ManaMape - izveidot mapi 
-rmdir ManaMape - izdzēst mapi
+mkdir ManaMape - (izveidot mapi make directory)
+rmdir ManaMape - (izdzēst mapi remove directory)
 history - apskatīties izveidoto komandu vēsturi
 sh - bash valodas komanda
 ~ - mājas
@@ -19,3 +19,6 @@ ls - objektu saraksts
 ls -a - visu pieejamo objektu saraksts
 -a - neignorēt visus objektus, parādīt visus objektus
 ~/documents$ - pāriet uz mapi documents
+aaa.txt - izveidota mape aaa
+nano - pāreja uz skriptu veidošanu
+$PATH
