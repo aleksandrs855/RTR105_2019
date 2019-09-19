@@ -1,0 +1,80 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  git clone https://github.com/aleksandrs855/RTR105_2019
+    6  lsl -l
+    7  ls -l
+    8  cd
+    9  RTR105_2019/
+   10  RTR105_2019/ ls
+   11  cd RTR105_2019/
+   12  ls -l
+   13  ls - la
+   14  ls -la
+   15  pwd
+   16  ls -l
+   17  cat README.md 
+   18  nano git-upload
+   19  cat git-upload 
+   20  chmod 700 git-upload 
+   21  ls -l
+   22  whereis git-upload
+   23  echo $PATH
+   24  ./git-upload 20190919_15_00
+   25  aleksandrs855@inbox.lv
+   26  aleksandrs855
+   27  git config --global aleksandrs855@inbox.lv
+   28  git config --global user.name "aleksandrs855"
+   29  cd ..
+   30  pwd
+   31  ls -l
+   32  rm -rf RTR105_2019/
+   33  ls -l
+   34  git clone https://github.com/aleksandrs855/RTR105_2019
+   35  ls -l
+   36  RTR105_2019/
+   37  RTR105_2019/ ls
+   38  git clone https://github.com/aleksandrs855/RTR105_2019
+   39  cd RTR105_2019/
+   40  nano elemantary.c
+   41  ls -l
+   42  mkdir darbi
+   43  mv elemantary.c darbi/
+   44  cd darbi/
+   45  ls -l
+   46  cat elemantary.c 
+   47  gcc elemantary.c 
+   48  nano elemantary.c 
+   49  gcc elemantary.c 
+   50  ls -l
+   51  ./a.out 
+   52  gcc elemantary.c .o prgl
+   53  ls -l
+   54  ./prgl
+   55  nano elemantary.c 
+   56  gcc elemantary.c  -o prg2
+   57  ls -l
+   58  nano elemantary.c 
+   59  cat prg1
+   60  cat prg2
+   61  cp elemantary.c  hello.c
+   62  ls -l
+   63  nano hello.c
+   64  ./hello
+   65  gcc ./hello
+   66  gcc hello.c -o hello
+   67  ./hello
+   68  nano hello.c
+   69  gcc hello.c -o hello
+   70  ./hello
+   71  nano hello.c
+   72  ./hello
+   73  ls -l
+   74  rm prg*
+   75  ls -l
+   76  rm a.out
+   77  rm hello
+   78  cat elemantary.c 
+   79  cd
+   80  history > history_20190919_16_00
