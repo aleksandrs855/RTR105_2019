@@ -1,0 +1,58 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  cd
+    5  ls -la
+    6  cd
+    7  ls -s
+    8  firefox
+    9  git clone https://github.com/aleksandrs855/RTR105_2019
+   10  ls -la
+   11  ls -s
+   12  /Documents
+   13  ~/RTR105_2019/darbiMO1$
+   14  cd RTR105_2019/
+   15  nano 0.b
+   16  nano hello.c
+   17  gcc hello.c
+   18  nano hello.c
+   19  gcc hello.c
+   20  nano hello.c
+   21  gcc hello.c
+   22  nano hello.c
+   23  gcc hello.c
+   24  nano hello.c
+   25  gcc a.out
+   26  gcc hello.c
+   27  ls -l
+   28  nano hello.c
+   29  ./a.out
+   30  nano hello.c
+   31  ./a.out
+   32  nano hello.c
+   33  ./a.out
+   34  ls -la
+   35  nano hello.c
+   36  ./a.out
+   37  cat hello.c
+   38  nano hello.c
+   39  ./a.out
+   40  cat ./a.out
+   41  ./a.out
+   42  ls -la
+   43  ls -l
+   44  cat 03.c
+   45  nano 03.c
+   46  cd darbi/
+   47  04.c
+   48  nano 04.c
+   49  ./a.out
+   50  gcc 04.c
+   51  gcc nano 04.c
+   52  gcc 04.c
+   53  ld l
+   54  gcc 04.c
+   55  history
+   56  history_20190926_15_23.txt
+   57  cd
+   58  history > history_20190926_15_25
