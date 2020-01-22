@@ -1,0 +1,59 @@
+1  cd
+    2  ls -l
+    3  nano big.nigger.olympic
+    4  cd
+    5  ls -l
+    6  cd
+    7  ls -l
+    8  cd
+    9  ls -l
+   10  cd Documents
+   11  cd
+   12  rmdir darbi
+   13  rkdir darbi
+   14  mkdir darbi
+   15  cd darbi
+   16  nano tests.c
+   17  nano ascii.c
+   18  cd
+   19  sudo
+   20  ls -l
+   21  cd /darbi
+   22  cddarbi
+   23  cd darbi
+   24  cd
+   25  sudo
+   26  nano ascii.c
+   27  gcc ascii.c 
+   28  sudo apt install gcc
+   29  gcc -v
+   30  gcc -V
+   31  sudo apt-get install gcc
+   32  sudo apt-get install build-essential
+   33  /var/lib/dpkg/lock
+   34  sudo rm /var/lib/apt/lists/lock
+   35  sudo apt-get install gcc
+   36  sudo rm /var/cache/apt/archives/lock
+   37  sudo rm /var/lib/dpkg/lock
+   38  sudo dpkg --configure -a
+   39  sudo apt install -f
+   40  rm /var/lib/dpkg/lock-fronted
+   41  sudo rm /var/lib/dpkg/lock-fronted
+   42  git clone https://github.com/aleksandrs855/RTR105
+   43  sudo apt install git
+   44  y
+   45  sudo apt install git
+   46  git clone https://github.com/aleksandrs855/RTR105_2019
+   47  cd RTR105_2019/darbi/1ld_series
+   48  cd RTR105_2019
+   49  mk dir /darbi
+   50  mk dir darbi
+   51  mkdir darbi
+   52  cd darbi
+   53  mkdir 1ld_series
+   54  cd 1ld_series/
+   55  nano tail.c
+   56  ./a.out tail.c 
+   57  gcc tail.c 
+   58  history
+
